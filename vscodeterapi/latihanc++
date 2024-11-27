@@ -1,0 +1,27 @@
+using namespace std;
+
+int main()
+{
+
+    //deklarasi Variabel
+    int detik;
+    int jam;
+    int hari;
+    int menit;
+    
+    //mengetahui detik 
+    cout<<"masukan detik";
+    cin>> detik;
+    //mengkonversikan detik menjadi hari,jam,menit,detik 
+    hari =
+    jam = 
+    menit = 
+    detik = 
+    //menampilkan hasil
+    cout<<hari<<endl;
+    cout<<jam<<endl;
+    cout<<menit<<endl;
+    cout<<detik;
+    
+    return 0;
+}

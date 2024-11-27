@@ -1,0 +1,16 @@
+.navbar {
+  transition: 0.3s;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #135685;
+}
+
+#gallery {
+  background-color: #135685;
+}
+
+section {
+  padding-top: 8rem;
+}
